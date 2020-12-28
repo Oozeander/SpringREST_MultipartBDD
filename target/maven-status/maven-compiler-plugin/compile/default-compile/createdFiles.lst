@@ -1,0 +1,9 @@
+com\oozeander\model\Avatar.class
+com\oozeander\service\impl\AvatarServiceImpl.class
+com\oozeander\spring\WebAppInitializer.class
+com\oozeander\service\AvatarService.class
+com\oozeander\repository\AvatarRepository.class
+com\oozeander\spring\DataJpaConfig.class
+com\oozeander\spring\RestConfig.class
+com\oozeander\resource\AvatarResource.class
+com\oozeander\spring\JavaConfig.class
